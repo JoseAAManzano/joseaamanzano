@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🧠 I'm a Ph.D. student in cognitive neuroscience with a passion for data analysis . My main interests are neurolinguistics, language learning, and computational modeling :space_invader:.
+
+🔭 I combine science and technology development to foster and inform language education practices. I am skilled in programming 🐍, data analysis :bar_chart:, and communication :speaker:.
+
+✨ Skillset:
+-Programming languages (Python, R, MATLAB, Java, C#)
+-Machine and Deep Learning frameworks (sklearn, TensorFlow, Keras, PyTorch)
+-Version control (Git, Docker)
+-Data analysis software (R Studio, SPSS, JASP)
+-Data visualization packages (pandas, matplotlib, seaborn, ggplot, plotly)
+-Database management & query (SQL) 
