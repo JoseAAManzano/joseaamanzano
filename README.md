@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ✨ Skillset:
 - Programming languages (Python, R, MATLAB, Java, C#)
 - Machine and Deep Learning frameworks (sklearn, TensorFlow, Keras, PyTorch)
-- Version control (Git, Docker)
+- Version control and containers (Git, Github, Docker)
 - Data analysis software (R Studio, SPSS, JASP)
 - Data visualization packages (pandas, matplotlib, seaborn, ggplot, plotly)
 - Database management & query (SQL) 
